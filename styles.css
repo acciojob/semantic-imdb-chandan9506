@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+h1{
+	color:blue;
+	text-align:center;
+}
+.content{
+	height:30px;
+	border:2px solid black;
+	padding:0px 30px 0px 30px;
+	margin:0px 30px 0px 4px;
+}
